@@ -46,7 +46,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
 
-[Image](clouds-middle.png)
+[Image]( portfolio/clouds-back.png )
 
 </body>
 </html>
